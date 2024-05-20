@@ -14,7 +14,7 @@ function App() {
     <>
     {/* <Lottery></Lottery> */}
     <TodoList></TodoList>
-    {/* <LudoBoard></LudoBoard> */}
+
       {/* <LikeButton></LikeButton> */}
     </>
   );
